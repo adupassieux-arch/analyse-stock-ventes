@@ -2,7 +2,7 @@
 
 **Secteur :** Vins et spiritueux de prestige
 
-Analyse SQL/Python du stock et des ventes d'un site e-commerce viticole (825 références produits).
+Analyse SQL/Python du stock et des ventes d'un site e-commerce vins et spiritueux (825 références produits).
 
 ## Objectifs
 - Consolider et nettoyer les données produits, ventes et stock
