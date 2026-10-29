@@ -7,7 +7,7 @@
 # 
 # # OBJECTIF DE CETTE PARTIE
 # 
-# Ce notebook reprend le livrable du **Projet 6 "Bottleneck"** (analyse du stock et des ventes) et l'améliore grâce à l'IA, de manière **critique et documentée**, conformément à la Mission 1 du projet de fin de parcours OpenClassrooms BIA.
+# Ce notebook reprend le livrable du **Projet 6 "Bottleneck"** (analyse du stock et des ventes) et l'améliore grâce à l'IA, de manière **critique et documentée**, conformément à la Mission 1 du projet de fin de parcours Business Intelligence Analyst.
 # 
 # Deux axes d'amélioration ont été retenus à l'issue de la veille technologique (voir document de documentation associé) :
 # 
